@@ -1,10 +1,10 @@
 <html> 
     <title>My Firtst Website</title>
-    <body bgcolor=yellow>
+    <body bgcolor=blue>
       <h1>Welcome to my website!</h1>
       <p>Here is a picture of a little pupper <p> hugging a teddy bear.
       <hr>
-      <h1> I stole this from Pinterest.
+      <h1> I stole this from Pinterest.</h1>
       <img src="puppy.jpg">
       <hr>
       </body>
